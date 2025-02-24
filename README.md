@@ -9,7 +9,7 @@ Obfuscate your source code effortlessly. Just attach your file and select your d
 ### `/stats`
 Check the bot's status, including uptime, obfuscation count, version, server count, and total member count.
 
-Start protecting your code today with Java17 Bot!
+Start protecting your code today with Apollo17 Bot!
 
 ---
 
@@ -37,7 +37,7 @@ At Apollo17, your privacy is our top priority. Our Discord bot is designed to pr
 - Our systems are monitored to prevent unauthorized data access.
 
 ### **User Consent**
-- By using Java17, you agree to this Privacy Policy.
+- By using Apollo17, you agree to this Privacy Policy.
 - We encourage you to review this policy regularly for any updates.
 
 If you have any questions or concerns regarding our privacy practices, please contact us.
