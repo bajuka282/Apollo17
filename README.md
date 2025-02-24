@@ -1,4 +1,4 @@
-# Java17 Bot
+# Apollo17 Bot
 
 Java17 Bot is a no-frills source code protection tool that quietly obfuscates your code, making reverse-engineering a hassle while keeping your intellectual property safe. We keep it lowkey by not collecting or storing any user data.
 
@@ -14,7 +14,7 @@ Start protecting your code today with Java17 Bot!
 ---
 
 ## Privacy Policy
-At Java17, your privacy is our top priority. Our Discord bot is designed to provide its functionality without logging or storing any personal data. This policy outlines our commitment to your privacy.
+At Apollo17, your privacy is our top priority. Our Discord bot is designed to provide its functionality without logging or storing any personal data. This policy outlines our commitment to your privacy.
 
 ### **No Data Logging**
 - We do not log, store, or record any user information.
