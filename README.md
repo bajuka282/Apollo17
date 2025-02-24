@@ -2,6 +2,8 @@
 
 Java17 Bot is a no-frills source code protection tool that quietly obfuscates your code, making reverse-engineering a hassle while keeping your intellectual property safe. We keep it lowkey by not collecting or storing any user data.
 
+Invite me: https://bit.ly/3XfIxHc
+
 ## Usage
 ### `/obfuscate <mode> <file>`
 Obfuscate your source code effortlessly. Just attach your file and select your desired mode—Java17 Bot will handle the rest.
